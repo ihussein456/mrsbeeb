@@ -1,0 +1,50 @@
+body{
+    margin: 0 auto;
+    line-height: 1.1;
+    font-family: roboto;
+    font-size: 1rem;
+}
+
+section{
+    padding: 40px 0;
+}
+.container{
+    margin: 0 1rem;
+}
+
+.section_one{
+    background-color: blanchedalmond;
+    padding: 200px 0;
+    text-align: center;
+}
+
+.intro_text{
+    font-family: 'Playfair Display', serif;
+    font-size: 1rem;
+    color: rgb(87, 84, 84);
+}
+
+.intro_title{
+    font-size: 3rem;
+    font-family: 'Vujahday Script', cursive;
+    color: rgb(59, 41, 68);
+}
+.header{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+}
+
+img{
+    max-width: 100%;
+}
+
+.section_three{
+    background-color: rgb(20, 28, 104);
+    color: white;
+}
+
+.section_four{
+    background-color: rgb(78, 13, 22);
+    color: white;
+}
+
